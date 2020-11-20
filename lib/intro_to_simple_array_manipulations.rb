@@ -1,4 +1,3 @@
-artists = ["Frida Kahlo", "Pablo Picasso", "Cai Guo-Qiang"]
-artists.pop
-
-p artists
+def using_push(array, string)
+ 
+end
